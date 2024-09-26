@@ -1,0 +1,46 @@
+/* Navbar.css */
+
+.navbar {
+    background-color: #000;
+    /* Match the dark background of your forms */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-title {
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.navbar-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    /* Space between links */
+}
+
+.navbar-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #28a745;
+    /* Matches the button color */
+}
+
+.navbar-link:hover {
+    background-color: #218838;
+    /* Hover effect matching your button hover */
+}
+
+.navbar-link:active {
+    background-color: #1e7e34;
+    /* Active state */
+}
