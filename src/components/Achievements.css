@@ -1,0 +1,14 @@
+.achievements-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.achievements-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.achievements-container p {
+    font-size: 1.2rem;
+    color: #555;
+}

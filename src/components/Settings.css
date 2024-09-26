@@ -1,0 +1,14 @@
+.settings-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.settings-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.settings-container p {
+    font-size: 1.2rem;
+    color: #555;
+}
